@@ -63,6 +63,9 @@ Minimum expected sales: 2.2K
 Upper bound: 6.2K
 Lower bound: -1.7K
 
+**Learnings:**
+  Incorporated data analysis techniques, specializing in time series analysis to deliver valuable insights, accurate sales forecasting, and an interactive dashboard and driving business success.
+
 **Sales Dashboard**
 
 <img width="600" alt="image" src="https://github.com/Pndydpk/LamePanda_Sales_Data/assets/85039287/f104db9d-e615-4157-b8e1-259809681d57">
