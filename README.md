@@ -54,14 +54,10 @@ Based on the sales forecast for the next 31 days (i.e. January 1, 2021, to Janua
 **Maximum Sales Projection:**
 
 Maximum expected sales: 5.5K
-Upper bound: 9.5K
-Lower bound: 1.6K
 
 **Minimum Sales Projection:**
 
 Minimum expected sales: 2.2K
-Upper bound: 6.2K
-Lower bound: -1.7K
 
 **Learnings:**
   Incorporated data analysis techniques, specializing in time series analysis to deliver valuable insights, accurate sales forecasting, and an interactive dashboard and driving business success.
