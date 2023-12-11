@@ -64,9 +64,6 @@ Minimum expected sales: 2.2K
 
 **Sales Dashboard**
 
-![image](https://github.com/Pndydpk/LamePanda_Sales_Data/assets/85039287/882424d8-ebe1-451c-bc92-9abd13ac2423)
-
-
 <img width="600" alt="image" src="https://github.com/Pndydpk/LamePanda_Sales_Data/assets/85039287/f104db9d-e615-4157-b8e1-259809681d57">
 
 **Sales Forecast**
